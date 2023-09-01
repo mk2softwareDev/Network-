@@ -1,1 +1,1 @@
-# Network- This project is encapsulated inside network security folder 
+# Network- This project is encapsulated in domain of network security.
